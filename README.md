@@ -29,19 +29,19 @@ Plataforma en la nube diseñada para gestionar afiliados de servicios de seguros
 - Atención automatizada a consultas de usuarios.
 - Integración con la base de datos para ofrecer respuestas precisas y personalizadas.
 - Ejemplo de interacción:  
-  ![Ejemplo de chat con IA]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-project-01b-th.jpg)
+  ![Ejemplo de chat con IA](/assets/images/unsplash-project-01b-th.jpg)
   *Interfaz de chat con respuestas automatizadas y opciones de seguimiento.*
 
 ### 2. Mapa de Operadores
 - Visualización geolocalizada de afiliados y servicios disponibles.
 - Filtros por distancia, especialidad y disponibilidad.
-  ![Ejemplo de chat con IA]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-project-01-th.jpg)
+  ![Ejemplo de chat con IA](/assets/images/unsplash-project-01-th.jpg)
   *Mapa interactivo para localizar afiliados en tiempo real.*
 
 ### 3. Buscador de Asesores
 - Catálogo de servicios disponibles.
 - Localizador integrado para encontrar asesores cercanos.
-  ![Ejemplo de chat con IA]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-project-01c-th.jpg)
+  ![Ejemplo de chat con IA](/assets/images/unsplash-project-01c-th.jpg)
   *Interfaz de búsqueda y catálogo de servicios.*
 
 ### 4. Automatización con GitHub Actions
