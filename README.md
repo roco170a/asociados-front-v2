@@ -1,6 +1,6 @@
 # Plataforma de Gestión de Afiliados para Servicios de Seguros 🛡️
 
-**URL del proyecto:** [https://asociado.space](https://asociado.space)
+**URL del proyecto:** No disponible por el momento
 
 ---
 
