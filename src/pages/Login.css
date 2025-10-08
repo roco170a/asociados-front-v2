@@ -1,0 +1,55 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f5f5f5;
+}
+
+.login-card {
+  width: 100%;
+  max-width: 450px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.login-header {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+.login-logo {
+  max-width: 150px;
+  margin-bottom: 1rem;
+}
+
+.login-footer {
+  display: flex;
+  justify-content: center;
+  padding-top: 1rem;
+}
+
+.login-links {
+  display: flex;
+  justify-content: center;
+  padding-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.login-links a {
+  color: #2196F3;
+  text-decoration: none;
+}
+
+.login-links a:hover {
+  text-decoration: underline;
+}
+
+.p-field {
+  margin-bottom: 1.5rem;
+}
+
+.p-field label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+} 
